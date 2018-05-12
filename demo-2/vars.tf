@@ -1,4 +1,11 @@
+#Here only the declaration of 
+#variables takes place.
+#The empty curly braces indicate that
+#only variables are declared and not defined.
+
+#Only the AMIS variable is defined here.
 variable "AWS_ACCESS_KEY" {}
+
 variable "AWS_SECRET_KEY" {}
 variable "AWS_REGION" {}
 
